@@ -1,0 +1,14 @@
+fire==0.6.0
+gdown==3.12.2
+matplotlib==3.3.4
+munch==2.5.0
+numpy==1.24.3
+Pillow==10.4.0
+prettytable==2.0.0
+sconf==0.2.3
+seaborn==0.13.2
+tensorboardX==2.1
+tensorboardX==2.6.2.2
+torch==1.10.0+cu111
+torchvision==0.11.1+cu111
+tqdm==4.51.0
