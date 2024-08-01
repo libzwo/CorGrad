@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of Rethinking **Domain Generalization from Perspective of Gradient Granularity**.
 
-Yujie Zhoua, Haigen Hua, Qianwei Zhoua, Qiu Guana and Mingfeng Jiang.
+Yujie Zhou, Haigen Hu, Qianwei Zhou, Qiu Guan and Mingfeng Jiang.
 
 <p align="center">
     <img src="./assets/method.png" width="90%" />
